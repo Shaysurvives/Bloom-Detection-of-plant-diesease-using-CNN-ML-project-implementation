@@ -1,1 +1,1 @@
-# Detection-of-plant-diesease-using-CNN-ML-project-implementation
+🧠 Deep Learning from Mathematical First Principles
